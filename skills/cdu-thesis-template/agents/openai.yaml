@@ -1,0 +1,4 @@
+interface:
+  display_name: "CDU Thesis Template"
+  short_description: "Format CDU thesis DOCX files with the science template"
+  default_prompt: "Use $cdu-thesis-template to format this thesis DOCX according to the Chengdu University science thesis template."

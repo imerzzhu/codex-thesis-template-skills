@@ -1,0 +1,4 @@
+interface:
+  display_name: "CDUT English Thesis Template"
+  short_description: "Format CDUT English thesis DOCX files"
+  default_prompt: "Use $cdut-english-thesis-template to format this English major thesis DOCX according to the Chengdu University of Technology template."

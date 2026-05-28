@@ -1,0 +1,4 @@
+interface:
+  display_name: "CDU Defense PPT Template"
+  short_description: "Adapt thesis defense decks to the CDU PPT template"
+  default_prompt: "Use $cdu-defense-ppt-template to adapt this thesis defense PPT to the Chengdu University defense template."

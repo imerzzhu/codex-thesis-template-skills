@@ -1,0 +1,4 @@
+interface:
+  display_name: "SWPU Thesis Template"
+  short_description: "Format SWPU undergraduate thesis DOCX files"
+  default_prompt: "Use $swpu-thesis-template to format this undergraduate thesis DOCX according to the Southwest Petroleum University thesis template."

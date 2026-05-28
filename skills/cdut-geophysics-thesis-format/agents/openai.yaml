@@ -1,0 +1,4 @@
+interface:
+  display_name: "CDUT Geophysics Thesis Format"
+  short_description: "Template-first repair, Word actual-page TOC audit, and static TOC repair for CDUT geophysics thesis DOCX files."
+  default_prompt: "Use $cdut-geophysics-thesis-format to audit and repair this CDUT geophysics bachelor thesis DOCX against the supplied DOTX template without changing thesis content. For TOC page numbers, verify Microsoft Word actual pagination and do not rely on LibreOffice/PNG page order."
