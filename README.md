@@ -2,6 +2,12 @@
 
 面向高校论文、毕业设计和答辩材料格式化的 Codex Skills 集合。仓库提供可复用的格式规则、审查脚本和工作流说明，帮助 Codex 按指定学校模板审查或整理 DOCX/PPTX 文件。
 
+## 中文简介
+
+这个仓库整理了本地沉淀的论文模板格式化 skills，主要用于让 Codex 按高校提供的 Word 或 PowerPoint 模板检查、修复和统一格式。当前覆盖成都大学本科论文、成都理工大学英语专业论文、成都理工大学地球物理学院论文/毕业设计、西南石油大学本科论文/毕业设计，以及成都大学本科论文答辩 PPT。
+
+仓库只开源可复用的 `SKILL.md`、格式规则、审查/修复脚本和使用文档，不直接分发学校模板原文件。使用时需要把自己有授权来源的 `.docx`、`.dotx` 或 `.pptx` 模板放到对应 skill 的 `assets/` 目录中。
+
 ## English Summary
 
 Codex Thesis Template Skills is a public Codex Skills package for thesis and defense-presentation formatting. It includes reusable skills for auditing and repairing Word thesis documents, checking table-of-contents page numbers, and adapting defense PowerPoint decks to a supplied template style.
